@@ -11,6 +11,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVzdmszZDNkMWVmNzU4NmJscm5zb2dmNnRxczRiOG9nNXU5a2NuYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
@@ -59,15 +61,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/codewith-raj/codewith-raj/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/codewith-raj/count.svg?"  />
-</div>
-
-###
 <img src="https://raw.githubusercontent.com/codewith-raj/codewith-raj/output/snake.svg" alt="Snake animation" />
 
 ###
