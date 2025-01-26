@@ -7,7 +7,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=codewith-raj&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=codewith-raj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-raj&layout=compact&theme=dark&hide_border=false" height="150" alt="top languages" />
 </div>
 
 ###
@@ -48,13 +47,6 @@
 
 ###
 
-### 🌟 Featured Projects
-
-- **[Project Name](#)**: A brief description of this project.  
-- **[Another Project](#)**: Another brief description of a key project.
-
-###
-
 ### 📫 Connect with Me
 
 <div align="left">
@@ -85,3 +77,4 @@
 </div>
 
 ###
+
