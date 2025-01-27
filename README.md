@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I’m Ritik Raj, a passionate engineering student shaping the future of technology.</h2>
+<h2 align="left">Hi 👋 ! I’m Ritik Raj, a passionate engineering student shaping the future of technology.</h2>
 
 ###
 
