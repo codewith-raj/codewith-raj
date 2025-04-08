@@ -57,13 +57,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/codewith-raj/codewith-raj/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/codewith-raj/count.svg?"  />
