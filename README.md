@@ -60,15 +60,15 @@ me.say_hi()
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=codewith-raj&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewith-raj&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github" height="165" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=codewith-raj&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codewith-raj&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewith-raj&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewith-raj&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" width="95%" alt="Contribution Graph" />
 
 </div>
 
