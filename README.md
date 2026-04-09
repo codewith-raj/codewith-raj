@@ -59,15 +59,21 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codewith-raj&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=codewith-raj&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codewith-raj&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=codewith-raj&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewith-raj&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="95%" alt="Contribution Graph" />
 </div>
-
----
 
 ### 🛠️ Tech Stack
 
