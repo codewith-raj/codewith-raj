@@ -60,15 +60,9 @@ me.say_hi()
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=codewith-raj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewith-raj&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=codewith-raj&theme=tokyonight&hide_border=true&border_radius=6&mode=daily" height="165" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-raj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="135" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=codewith-raj&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
 </div>
 
@@ -143,16 +137,6 @@ me.say_hi()
 | Natural Language Processing | Transformers, NLTK | 🟡 Learning |
 | Generative AI | LLMs, Diffusion Models | 🟡 Exploring |
 | MLOps | Docker, Jupyter, Git | 🔵 Building |
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=codewith-raj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="95%" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
