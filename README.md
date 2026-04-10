@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=header&text=Ritik%20Raj&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=header&text=Hritik%20Raj&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
 
